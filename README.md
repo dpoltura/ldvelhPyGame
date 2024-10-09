@@ -1,34 +1,29 @@
-# ldvelhPyGame
-Voici un exemple de description de dépôt Git pour un jeu développé en Python, basé sur un concept de "livre dont vous êtes le héros" :
+# 📚 Livre Dont Vous Êtes Le Héros - Jeu Interactif en Python (Codé avec Claude)
 
----
-
-# 📚 Livre Dont Vous Êtes Le Héros - Jeu Interactif en Python
-
-Bienvenue dans le dépôt du jeu **Livre Dont Vous Êtes Le Héros** ! Ce projet consiste en un jeu interactif développé en Python où le joueur prend les décisions qui influencent directement le déroulement de l’histoire. Inspiré des célèbres livres-jeux, ce programme plonge le joueur dans une aventure personnalisée remplie de choix cruciaux, d’énigmes, et de multiples chemins narratifs.
+Bienvenue dans le dépôt du jeu **Livre Dont Vous Êtes Le Héros**, un projet interactif développé en Python avec l’aide de **Claude**, un assistant IA. Ce jeu propose une aventure narrative où le joueur prend les décisions qui influencent directement le cours de l’histoire, dans l’esprit des célèbres "livres dont vous êtes le héros". Chaque choix du joueur détermine la suite du récit, garantissant une expérience unique à chaque partie.
 
 ## 🕹️ Fonctionnalités
 
-- **Narration interactive** : Le joueur incarne le héros de l’histoire et peut choisir parmi plusieurs options à chaque étape du jeu.
-- **Branches multiples** : Chaque choix entraîne des conséquences différentes, menant à diverses fins possibles.
-- **Personnalisation du personnage** : Le joueur peut définir certaines caractéristiques de son personnage (nom, compétences, etc.).
-- **Système de sauvegarde** : Possibilité de sauvegarder et de charger la progression.
-- **Énigmes et défis** : Des moments de réflexion et de stratégie avec des énigmes à résoudre pour avancer.
-- **Fin alternative** : Chaque partie est unique, avec plusieurs fins possibles en fonction des décisions prises.
+- **Code assisté par IA (Claude)** : Ce projet a été entièrement codé avec l'aide de Claude, un assistant IA, pour améliorer la qualité et la cohérence du code.
+- **Narration interactive** : Le joueur incarne le personnage principal et choisit parmi plusieurs options à chaque étape du jeu.
+- **Multiples chemins narratifs** : Chaque décision entraîne des conséquences différentes, menant à plusieurs fins possibles.
+- **Système de sauvegarde** : Permet au joueur de sauvegarder et de reprendre sa progression à tout moment.
+- **Énigmes et défis** : Le jeu propose des énigmes et des moments stratégiques qui testent la réflexion du joueur.
+- **Fins alternatives** : Plusieurs fins sont possibles en fonction des décisions prises tout au long du jeu.
 
 ## 🛠️ Installation et utilisation
 
-1. Clonez ce dépôt sur votre machine locale :
+1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/votre_nom/livre-dont-vous-etes-le-heros.git
+   git clone https://github.com/dpoltura/ldvelhPyGame.git
    ```
    
-2. Accédez au dossier du projet :
+2. Accédez au répertoire du projet :
    ```bash
-   cd livre-dont-vous-etes-le-heros
+   cd ldvelhPyGame
    ```
 
-3. Installez les dépendances (si nécessaire) :
+3. Installez les dépendances :
    ```bash
    pip install -r requirements.txt
    ```
@@ -40,27 +35,21 @@ Bienvenue dans le dépôt du jeu **Livre Dont Vous Êtes Le Héros** ! Ce projet
 
 ## 🎮 Comment jouer ?
 
-Le jeu se déroule entièrement dans le terminal. À chaque étape de l’aventure, vous aurez plusieurs options de réponse. Sélectionnez l’une d’elles en entrant le numéro correspondant. Votre progression dépendra de vos choix, alors réfléchissez bien avant de décider !
-
-## 🧩 Structure du projet
-
-- **`main.py`** : Le point d’entrée principal du jeu.
-- **`narration/`** : Contient les différents chapitres et scénarios du jeu.
-- **`personnages/`** : Gère la création et les caractéristiques du héros.
-- **`sauvegarde/`** : Système de sauvegarde et de chargement de la partie.
+Le jeu est entièrement basé sur des choix. À chaque étape, vous aurez plusieurs options. Sélectionnez l'option souhaitée en tapant le numéro correspondant. Vos décisions impacteront la suite de votre aventure et détermineront la fin de votre histoire.
 
 ## 🚀 Prochaines étapes
 
-Nous prévoyons d'ajouter :
+Les futures améliorations prévues incluent :
 
-- Plus de scénarios et de fins alternatives.
-- Un système de gestion des combats et des compétences.
-- Un mode multijoueur en ligne.
+- Ajout d'une musique d'ambiance.
+- Amélioration et optimisation GUI.
+- Implémentation de nouveaux livres pour de nouvelles aventures.
 
 ## 🤝 Contributions
 
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer le jeu, n'hésitez pas à soumettre des issues ou des pull requests.
+Le code a été entièrement créé avec l’aide de Claude, mais toute contribution est la bienvenue. Si vous souhaitez proposer des améliorations ou de nouvelles fonctionnalités, n'hésitez pas à soumettre des issues ou des pull requests.
 
 ---
 
-Ce dépôt propose donc une aventure unique à chaque partie, où chaque joueur écrit sa propre histoire en fonction de ses choix ! 🎲
+Avec Claude, ce projet incarne une collaboration IA-humaine, et chaque partie propose une nouvelle aventure ! 🎲
+
